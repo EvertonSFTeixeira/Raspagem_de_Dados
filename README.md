@@ -27,9 +27,9 @@ pip install selenium pandas
 
 ### Como Executar
 1.	Clone este repositório:
-2.	git clone https://github.com/seu_usuario/seu_repositorio.git
+2.	git clone https://github.com/EvertonSFTeixeira/Raspagem_de_Dados.git
 3.	Navegue até o diretório do projeto:
-4.	cd seu_repositorio
+4.	cd Raspagem_de_Dados
 5.	Instale as dependências necessárias:
 6.	pip install -r requirements.txt
 7.	Abra o notebook Jupyter:
@@ -43,5 +43,5 @@ pip install selenium pandas
 ### Contribuição
 Contribuições são bem-vindas! Sinta-se à vontade para abrir um pull request ou relatar problemas na aba de issues.
 
-###Licença
+### Licença
 Este projeto está licenciado sob os termos da MIT License.
